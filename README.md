@@ -1,9 +1,9 @@
-# Send OTP React-Native Sdk! 
+# Send OTP Swift Sdk! 
 
 ![Swift](https://img.shields.io/badge/Swift-5.5%2B-orange?logo=swift)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS-blue)
 ![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen?logo=swift)
-![Version](https://img.shields.io/github/v/release/d-o-2021/sendOTP?release=tag)
+![Version](https://img.shields.io/github/v/release/Walkover-Web-Solution/MSG91-sendOTP_Swift_SDK?release=tag)
 
 
 **The SendOtp SDK makes verifying OTP easy. SDK supports the verification of email and phone numbers via SMS, Calls & Whatsapp.**
@@ -32,7 +32,7 @@ You can install the package via **Xcode**:
 
 1. Open your project in **Xcode**
 2. Go to **File > Add Packages**
-3. Enter the repository URL: https://github.com/d-o-2021/sendOTP
+3. Enter the repository URL: https://github.com/Walkover-Web-Solution/MSG91-sendOTP_Swift_SDK
 4. Select the latest version
 5. Click **Add Package**
 
@@ -42,7 +42,7 @@ Add the package manually to your `Package.swift` file:
 
 ```swift
 dependencies: [
- .package(url: "https://github.com/d-o-2021/sendOTP", from: "1.0.0")
+ .package(url: "https://github.com/Walkover-Web-Solution/MSG91-sendOTP_Swift_SDK", from: "1.0.0")
 ]
 ```
 
