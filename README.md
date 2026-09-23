@@ -42,7 +42,7 @@ Add the package manually to your `Package.swift` file:
 
 ```swift
 dependencies: [
- .package(url: "https://github.com/Walkover-Web-Solution/MSG91-sendOTP_Swift_SDK", from: "1.0.0")
+ .package(url: "https://github.com/Walkover-Web-Solution/MSG91-sendOTP_Swift_SDK", from: "1.0.1")
 ]
 ```
 
