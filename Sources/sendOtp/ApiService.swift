@@ -8,7 +8,7 @@
 import Foundation
 
 struct ApiUrls {
-    private static let baseURL = "https://test.msg91.com/api/v5/widget"
+    private static let baseURL = "https://control.msg91.com/api/v5/widget"
     
     static func createEndpoint(_ endpoint: String) -> String {
         return "\(baseURL)\(endpoint)"
